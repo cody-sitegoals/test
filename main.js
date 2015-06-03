@@ -18,9 +18,7 @@ function initMenuHover(){
 	jQuery('#menu-navigation-header ul li').mouseleave(function(){
 		jQuery(this).parents('li').removeClass('hover');
 	});
-	//newer
 }
-
 
 jQuery(function($) {
 
