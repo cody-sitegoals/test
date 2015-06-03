@@ -34,7 +34,7 @@ jQuery(function(jQuery) {
 		});
 
 		jQuery("img").addClass("img-responsive");
-
+		//
 		
 	});
 });
