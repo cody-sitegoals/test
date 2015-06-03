@@ -89,7 +89,7 @@ jQuery(function($) {
 			 		});
 			 	});
 
-
+			 	//whatever
 				$('#home-flexslider').flexslider({
 					animation: "fade",
 					prevText: "",           //String: Set the text for the "previous" directionNav item
