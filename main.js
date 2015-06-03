@@ -33,7 +33,7 @@ jQuery(function($) {
 			'overlayShow'	:	false
 		});
 
-		jQuery("img").addClass("img-responsive");
+		$("img").addClass("img-responsive");
 		// Find all YouTube videos
 				var $allVideos = $(".youtube-player"),
 
