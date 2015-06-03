@@ -20,7 +20,6 @@ function initMenuHover(){
 	});
 }
 
-//old
 jQuery(function( jQuery ) {
 
 	jQuery( document ).ready(function() {
